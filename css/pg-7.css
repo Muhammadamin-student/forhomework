@@ -1,0 +1,164 @@
+.uhij h1 {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 130%;
+  /* identical to box height, or 52px */
+  letter-spacing: 0.03em;
+  color: #000000;
+}
+.uhij p {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 130%;
+  /* identical to box height, or 21px */
+  color: #000000;
+}
+
+.jgvubhinj {
+  display: flex;
+}
+.jgvubhinj h4 {
+  padding-left: 410px;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 130%;
+  /* identical to box height, or 26px */
+  color: #000000;
+}
+
+.card {
+  display: flex;
+  padding-bottom: 40px;
+}
+.card img {
+  width: 192.6px;
+  height: 166.64px;
+  border-radius: 15px;
+}
+.card .cl {
+  padding: 0 29px 0 60px;
+}
+.card p {
+  max-width: 282px;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 130%;
+  /* or 23px */
+  letter-spacing: 0.03em;
+  color: #3A3A3A;
+}
+.card h2 {
+  margin-top: 70px;
+  border: 1px solid #000000;
+  border-radius: 12px;
+  width: 140px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  padding: 8px 15px;
+}
+.card h2 img:first-child {
+  width: 18px;
+  height: 2px;
+}
+.card h2 img {
+  width: 18px;
+  height: 18px;
+}
+.card h2 p {
+  padding: 0 30px;
+}
+
+.kjhggcf {
+  display: flex;
+  align-items: center;
+}
+.kjhggcf h3 {
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 130%;
+  /* identical to box height, or 52px */
+  letter-spacing: 0.03em;
+  color: #000000;
+}
+.kjhggcf p {
+  padding-left: 40px;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 130%;
+  /* identical to box height, or 26px */
+  letter-spacing: 0.03em;
+  -webkit-text-decoration-line: line-through;
+          text-decoration-line: line-through;
+  color: #8B8B8B;
+}
+
+.imguh {
+  width: 824px;
+  height: 1px;
+}
+
+.gb {
+  padding-top: 50px;
+}
+
+#ned {
+  display: flex;
+}
+
+.border {
+  border: 2px solid #000000;
+  border-radius: 21px;
+  padding: 25px;
+  height: 393px;
+  margin-left: 60px;
+}
+.border input {
+  margin: 35px 0 25px;
+  padding: 0 208px 0 25px;
+  height: 73px;
+  background: #FFFFFF;
+  border: 1px solid #000000;
+  border-radius: 20px;
+}
+.border button {
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 130%;
+  /* or 36px */
+  letter-spacing: 0.03em;
+  color: #FFFFFF;
+  background: #F188F2;
+  border-radius: 17px;
+  border: none;
+  width: 446px;
+  height: 76px;
+}
+.border h1 {
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 130%;
+  /* or 36px */
+  letter-spacing: 0.03em;
+  color: #000000;
+}
+.border div {
+  display: flex;
+  justify-content: space-between;
+}
+.border div p {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 130%;
+  /* or 31px */
+  letter-spacing: 0.03em;
+  color: #000000;
+}
+.border div h1 {
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 130%;
+  /* identical to box height, or 42px */
+  letter-spacing: 0.03em;
+  color: #000000;
+}
